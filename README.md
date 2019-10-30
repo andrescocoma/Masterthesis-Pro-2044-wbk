@@ -1,11 +1,11 @@
 # Masterthesis-Pro-2044-wbk
 
-This folder contains the master's thesis for the development of the adaptation of a tape like Shell to a figure based on continuous elements with the support of substitute models, to evaluate the change of the mechanical properties of a part to the change in the arrangement of the tape.
+This folder contains the master's thesis for the development of the adaptation of a tape like Shell to a figure based on continuous elements with the support of surrogate models, to evaluate the change of the mechanical properties of a part to the change in the arrangement of the tape.
 
 
 ### Prerequisites
 
-ABAQUS needs to be installed, which already contains and interprets Python. Install Anaconda to read tables in Excel and be able to make substitute models.
+ABAQUS needs to be installed, which already contains and interprets Python. Install Anaconda to read tables in Excel and be able to make surrogate models.
 
 
 ### Installing
